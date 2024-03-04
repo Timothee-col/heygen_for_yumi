@@ -1,0 +1,4 @@
+requests==2.26.0
+moviepy==1.0.3
+openai==0.10.2
+ipython==7.16.1
